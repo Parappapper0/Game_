@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\camal\Desktop\Desktop\Projects\C++\SFML\Game_\Game.cpp(90,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camal\Desktop\Desktop\Projects\C++\SFML\Game_\Game.cpp(90,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game_.vcxproj -> C:\Users\camal\Desktop\Desktop\Projects\C++\SFML\Game_\x64\Debug\Game_.exe
